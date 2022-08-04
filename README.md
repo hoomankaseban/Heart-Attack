@@ -1,5 +1,5 @@
 # Heart-Attack
-In this project, we try to predict the risk of heart attack by getting people's health information
+In this project, we try to predict the risk of heart attack by getting people's health information.
 # Note
 All this project is built and planned by Hooman Kaseban.
 # Credit
